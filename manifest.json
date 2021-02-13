@@ -1,0 +1,1 @@
+{"background": {"scripts": ["ext.js"]}, "manifest_version": 2, "name": "Can I Has English Search Resultz?", "version": "1.0.0", "permissions": ["webRequest", "webRequestBlocking"]}
